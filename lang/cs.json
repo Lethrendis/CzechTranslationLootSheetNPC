@@ -1,0 +1,43 @@
+{   
+    "LOOTSHEET.SheetName": "Deník kořisti NP 5e",
+    "LOOTSHEET.Merchant":"Obchodník",
+    "LOOTSHEET.Loot":"Kořist",
+    "LOOTSHEET.Buy":"Koupit předmět",
+    "LOOTSHEET.BuyStack":"Koupit sadu",
+    "LOOTSHEET.LootStack":"Vzít sadu",
+    "LOOTSHEET.LootItem":"Vzít předmět",
+    "LOOTSHEET.EditItem":"Upravit předmět",
+    "LOOTSHEET.DeleteItem":"Odstranit předmět",
+    "LOOTSHEET.TypeOfSheetName":"Typ",
+    "LOOTSHEET.TypeOfSheet":"Typ deníku:",
+    "LOOTSHEET.PriceModifier":"Úprava ceny",
+    "LOOTSHEET.LootAll":"Vzít vše",
+    "LOOTSHEET.LootCoins":"Vzít mince",
+    "LOOTSHEET.GMSettings":"Nastavení PJ",
+    "LOOTSHEET.TypeOfSheetHelp":"Kořist: umožňuje sbírat předměty a mince.\nObchodník: umožňuje hráčům nakupovat předměty přímo z deníku.",
+    "LOOTSHEET.MerchantSettings":"Nastavení obchodníka",
+    "LOOTSHEET.MerchantSettingsInfo":"Nahraď inventář tohoto obchodníka náhodným počtem předmětů z házecí tabulky. Zadej název házecí tabulky spolu se vzorcem pro určení počtu různých předmětů (Vzorec množství obchodu) a vzorcem pro určení počtu kusů každého předmětu (Vzorec množství předmětu).",
+    "LOOTSHEET.RollableTable":"Házecí tabulka",
+    "LOOTSHEET.ShopFormula":"Vzorec množství obchodu",
+    "LOOTSHEET.ItemFormula":"Vzorec množství předmětu",
+    "LOOTSHEET.LimitQty":"Omezit množství",
+    "LOOTSHEET.ClearInventory":"Vyčistit inventář",
+    "LOOTSHEET.UpdateShop":"Aktualizovat inventář",
+    "LOOTSHEET.Permissions":"Oprávnění k přístupu",
+    "LOOTSHEET.PermissionInfo":"Ujisti se, že si hráči vybrali postavu prostřednictvím nabídky Nastavení hráče (klikni pravým tlačítkem na hráče vlevo dole).",
+    "LOOTSHEET.Currency":"Mince",
+    "LOOTSHEET.QuantityWindow": "Množství",
+    "LOOTSHEET.Quantity":"Množství",
+    "LOOTSHEET.Value":"Cena",
+    "LOOTSHEET.Total":"Celkem"
+}
+
+
+
+
+
+
+
+
+
+
